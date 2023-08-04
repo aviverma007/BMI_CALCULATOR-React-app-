@@ -1,6 +1,6 @@
 
-# Getting Star![9AEAB0A8-A2EF-48EF-9CB0-F849D2131DAB](https://github.com/aviverma007/BMI_CALCULATOR-React-app-/assets/81347805/ab78933c-03fa-4aa0-939e-de44c00a1f8e)
-ted with Create React App
+# Getting Started with Create React App![9AEAB0A8-A2EF-48EF-9CB0-F849D2131DAB](https://github.com/aviverma007/BMI_CALCULATOR-React-app-/assets/81347805/ab78933c-03fa-4aa0-939e-de44c00a1f8e)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
