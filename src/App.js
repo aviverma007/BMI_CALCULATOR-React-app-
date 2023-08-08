@@ -23,7 +23,7 @@ function App() {
       if (bmi < 25) {
         setMessage("you are Underweight..!!");
       } else if (bmi >= 25 && bmi < 30) {
-        setMessage("you are Healthy..!!");
+        setMessage(" CONGRATS you are Healthy..!!");
       } else {
         setMessage("you are Overweight..!!");
       }
